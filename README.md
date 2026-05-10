@@ -1,70 +1,72 @@
-Privacy Policy
-This privacy policy applies to the Wahran Transport app (hereby referred to as "Application") for mobile devices that was created by WahranTransport (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
+# Privacy Policy — Wahran Transport
 
+**Effective date:** 2026-05-10
 
-Information Collection and Use
-The Application collects information when you download and use it. This information may include information such as
+This privacy policy applies to the **Wahran Transport** app (referred to as "Application") for mobile devices, created by **WahranTransport** (referred to as "Service Provider") as a free service. This service is provided "AS IS".
 
-Your device's Internet Protocol address (e.g. IP address)
-The pages of the Application that you visit, the time and date of your visit, the time spent on those pages
-The time spent on the Application
-The operating system you use on your mobile device
+---
 
-The Application collects your device's location, which helps the Service Provider determine your approximate geographical location and make use of in below ways:
+## Information Collection and Use
 
-Geolocation Services: The Service Provider utilizes location data to provide features such as personalized content, relevant recommendations, and location-based services.
-Analytics and Improvements: Aggregated and anonymized location data helps the Service Provider to analyze user behavior, identify trends, and improve the overall performance and functionality of the Application.
-Third-Party Services: Periodically, the Service Provider may transmit anonymized location data to external services. These services assist them in enhancing the Application and optimizing their offerings.
+The Application collects information when you download and use it, including:
 
-The Application does not use Artificial Intelligence (AI) technologies to process your data or provide features.
+- Your device's Internet Protocol (IP) address
+- Pages visited within the Application, date and time of visits
+- Time spent on the Application
+- Operating system of your mobile device
+- **Your device's location**, used to provide transit routing features
 
+Location data is used for:
 
-The Service Provider may use the information you provided to contact you from time to time to provide you with important information, required notices and marketing promotions.
+- **Geolocation Services** — personalized content and location-based transit features
+- **Analytics and Improvements** — anonymized data to improve app performance
+- **Third-Party Services** — anonymized location data may be shared with external services to improve the Application
 
+The Application **does not use Artificial Intelligence (AI)** to process your data.
 
-For a better experience, while using the Application, the Service Provider may require you to provide us with certain personally identifiable information. The information that the Service Provider request will be retained by them and used as described in this privacy policy.
+---
 
+## Third Party Access
 
-Third Party Access
-Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
+Only aggregated, anonymized data is shared with third parties. The Service Provider may disclose information:
 
+- As required by law (e.g. subpoena or government request)
+- To protect rights, safety, or investigate fraud
+- With trusted service providers bound by this privacy policy
 
-The Service Provider may disclose User Provided and Automatically Collected Information:
+---
 
-as required by law, such as to comply with a subpoena, or similar legal process;
-when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+## Opt-Out Rights
 
-Opt-Out Rights
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+You can stop all data collection by uninstalling the Application at any time.
 
+---
 
-Data Retention Policy
-The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at transportalgerien@protonmail.com and they will respond in a reasonable time.
+## Data Retention
 
+User data is retained for as long as you use the Application and for a reasonable time thereafter. To request deletion, contact us at **transportalgerien@protonmail.com**.
 
-Children
-The Service Provider does not use the Application to knowingly solicit data from or market to children under the age of 13.
+---
 
+## Children
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (transportalgerien@protonmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+The Application is not directed at children under 13. We do not knowingly collect data from children. You must be at least **16 years old** to consent to data processing. Parents or guardians who believe their child has submitted personal information should contact us immediately.
 
+---
 
-Security
-The Service Provider is concerned about safeguarding the confidentiality of your information. The Service Provider provides physical, electronic, and procedural safeguards to protect information the Service Provider processes and maintains.
+## Security
 
+The Service Provider implements physical, electronic, and procedural safeguards to protect your information.
 
-Changes
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to the Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+---
 
+## Changes
 
-This privacy policy is effective as of 2026-05-10
+This Privacy Policy may be updated at any time. Changes will be posted on this page. Continued use of the Application constitutes acceptance of any changes.
 
+---
 
-Your Consent
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by us.
+## Contact
 
-
-Contact Us
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at transportalgerien@protonmail.com.
-
+Questions about this Privacy Policy? Contact us at:
+**transportalgerien@protonmail.com**
