@@ -1,72 +1,96 @@
-# Privacy Policy — Wahran Transport
+# Privacy Policy for Wahran Transport
 
-**Effective date:** 2026-05-10
+Last updated: 2026-05-13
 
-This privacy policy applies to the **Wahran Transport** app (referred to as "Application") for mobile devices, created by **WahranTransport** (referred to as "Service Provider") as a free service. This service is provided "AS IS".
+Wahran Transport is an independent transit guide application for Oran, Algeria. This policy explains what data the app uses, what may be sent to the Wahran Transport backend, and what is not collected.
 
----
+## 1. Data stored on the device
 
-## Information Collection and Use
+The app may store the following data locally on your device:
 
-The Application collects information when you download and use it, including:
+- Favorite lines and favorite stations selected by you
+- Favorite addresses saved by you
+- Recent trip previews, so you can reopen recent routes
+- Interface and station-language preferences
+- Your analytics consent choice
 
-- Your device's Internet Protocol (IP) address
-- Pages visited within the Application, date and time of visits
-- Time spent on the Application
-- Operating system of your mobile device
-- **Your device's location**, used to provide transit routing features
+This local data remains on your device unless you delete it, clear app storage, or uninstall the app.
 
-Location data is used for:
+## 2. Location data
 
-- **Geolocation Services** — personalized content and location-based transit features
-- **Analytics and Improvements** — anonymized data to improve app performance
-- **Third-Party Services** — anonymized location data may be shared with external services to improve the Application
+Location is optional. The app asks for location only when you use a location-based feature such as the current-location button. The app does not request background location.
 
-The Application **does not use Artificial Intelligence (AI)** to process your data.
+When you use current location, a map pin, or an address as part of route planning, the route request may include the origin and destination coordinates needed to calculate the route. Exact location is not used to create an account profile and is not sold to advertisers.
 
----
+## 3. Route and search requests
 
-## Third Party Access
+To calculate routes and search for addresses or places, the app communicates with the Wahran Transport backend.
 
-Only aggregated, anonymized data is shared with third parties. The Service Provider may disclose information:
+Route requests may include:
 
-- As required by law (e.g. subpoena or government request)
-- To protect rights, safety, or investigate fraud
-- With trusted service providers bound by this privacy policy
+- Origin and destination types, such as station, address, GPS pin, or map click
+- Coordinates or station identifiers needed to calculate the route
+- Route preference, such as fastest or fewer transfers
+- App version code
 
----
+Search requests may include the text typed by the user in the search field. The backend first searches server-side local data for Oran and may use an external geocoding fallback only when local results are not sufficient.
 
-## Opt-Out Rights
+## 4. Optional analytics
 
-You can stop all data collection by uninstalling the Application at any time.
+If you accept analytics, the app may send anonymized and aggregated usage events to help improve the transport network and the app.
 
----
+Analytics may include:
 
-## Data Retention
+- Popular origin and destination zones
+- Whether a route was found
+- Lines used in calculated routes
+- Transfer count, walking-distance bucket, and duration bucket
+- Route preference and origin/destination type
+- Feedback submitted by the user about route quality
+- Technical API usage counters, such as endpoint, status, cache status, and provider
 
-User data is retained for as long as you use the Application and for a reasonable time thereafter. To request deletion, contact us at **transportalgerien@protonmail.com**.
+Analytics does not include an account name, phone number, email address, advertising ID, or precise device identifier. Exact GPS coordinates are not stored in analytics tables; route locations are converted to readable zones or rounded approximate zones for analysis.
 
----
+You can change your analytics choice in the app's About screen.
 
-## Children
+## 5. Third-party services
 
-The Application is not directed at children under 13. We do not knowingly collect data from children. You must be at least **16 years old** to consent to data processing. Parents or guardians who believe their child has submitted personal information should contact us immediately.
+The app and backend may rely on third-party services:
 
----
+- Cloudflare: backend hosting, cache, object storage, and analytics database
+- OpenStreetMap contributors: map and geocoding source data
+- MapLibre: map rendering library
+- OpenFreeMap or another configured map tile provider: background map tiles
+- Photon: optional geocoding fallback based on OpenStreetMap data when local search has no result
+- Android operating system location services: device location permission and location retrieval
 
-## Security
+The public Nominatim service is not used for autocomplete in the production configuration.
 
-The Service Provider implements physical, electronic, and procedural safeguards to protect your information.
+Third-party providers may process technical request data such as IP address according to their own terms and privacy policies.
 
----
+## 6. OpenStreetMap attribution and ODbL
 
-## Changes
+Some map and search data is based on OpenStreetMap. OpenStreetMap data is copyright OpenStreetMap contributors and available under the Open Database License (ODbL). Required attribution is displayed in the app and in the open-source notices.
 
-This Privacy Policy may be updated at any time. Changes will be posted on this page. Continued use of the Application constitutes acceptance of any changes.
+The proprietary transit compilation used by Wahran Transport is separate from OpenStreetMap data. OpenStreetMap rights and obligations remain governed by the OpenStreetMap license.
 
----
+## 7. Sharing
 
-## Contact
+Wahran Transport does not sell personal data to advertisers or data brokers.
 
-Questions about this Privacy Policy? Contact us at:
-**transportalgerien@protonmail.com**
+The publisher may share anonymized and aggregated transport insights with public authorities, transport operators, or urban-planning partners, for example popular corridors, peak hours, underserved zones, and route-quality indicators. These reports are intended to improve public transport planning and should not identify individual users.
+
+## 8. Retention and deletion
+
+Local favorites and recent trips remain on the device until deleted by the user, app storage is cleared, or the app is uninstalled.
+
+Aggregated analytics may be retained as long as needed to improve the service, monitor abuse, and prepare transport-planning reports. Because the app does not use accounts, the publisher generally cannot link server-side analytics rows to a specific named person.
+
+## 9. Security
+
+The app uses Android app sandboxing and release hardening features such as code shrinking and non-debuggable release builds. The backend uses authentication, rate limits, caching, and daily soft caps to reduce abuse. No security measure can guarantee absolute protection.
+
+## 10. Contact
+
+- Publisher name: Wahran Transport
+- Contact email: transportalgerien@protonmail.com
